@@ -1,8 +1,5 @@
-C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\bin\Debug\Bakery_Software.exe.config
-C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\bin\Debug\Bakery_Software.exe
-C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\bin\Debug\Bakery_Software.pdb
-C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.Form1.resources
-C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.Properties.Resources.resources
-C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.csproj.GenerateResource.Cache
-C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.exe
-C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.pdb
+C:\Users\polar\Projects\Bakery_Software_with SQL\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.csproj.GenerateResource.Cache
+C:\Users\polar\Projects\Bakery_Software_with SQL\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.exe
+C:\Users\polar\Projects\Bakery_Software_with SQL\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.Form1.resources
+C:\Users\polar\Projects\Bakery_Software_with SQL\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.pdb
+C:\Users\polar\Projects\Bakery_Software_with SQL\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.Properties.Resources.resources
