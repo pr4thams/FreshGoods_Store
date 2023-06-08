@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Bakery_Software.Properties
+namespace Fresh_Goods.Properties
 {
 
 
